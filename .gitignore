@@ -1,0 +1,21 @@
+venv/
+
+.idea/
+*.iml
+*.iws
+*.ipr
+
+__pycache__/
+.pytest_cache/
+
+*.bak
+*.bak1
+
+*.txt  # Если click_count.txt является временным файлом
+*.log
+
+*.pyc
+*.DS_Store
+Thumbs.db
+
+External Libraries/
